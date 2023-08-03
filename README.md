@@ -31,4 +31,6 @@ To use this script, follow these steps:
 
 Note: Make sure you have the necessary permissions and correct configurations in your DigitalOcean account to perform the upload successfully.
 
-Please, let me know if you need any further assistance or have any questions!
+Please, let me know if you need any further assistance or have any questions! 
+
+iquipe@outlook.com
