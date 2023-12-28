@@ -1,3 +1,15 @@
+<?php
+/**
+ * DigitalOceanSpacesUploader class provides a convenient way to upload files to
+ * DigitalOcean Spaces using the S3 API. For questions or assistance, contact the author:
+ *
+ * Author: iQuipe Digital
+ * Email: iqcloud@iquipedigital.com
+ *
+ * Usage:
+ * 1. Instantiate the class with your DigitalOcean Spaces credentials.
+ * 2. Use the uploadFile method to upload a file to the specified space and path.
+ */
 class DigitalOceanSpacesUploader
 {
     private $space;
